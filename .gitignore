@@ -1,0 +1,11 @@
+.env
+backend/.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+Alymni-Sync--DBMS-Project-/
+frontend/static/uploads/cvs/*
+!frontend/static/uploads/cvs/.gitkeep
+frontend/static/uploads/photos/*
+!frontend/static/uploads/photos/.gitkeep
